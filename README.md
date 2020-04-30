@@ -1,7 +1,7 @@
 # myblog-next
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/093e9a03-9b2e-4686-aead-4c54ac83a208/deploy-status)](https://app.netlify.com/sites/chenyifaer/deploys)
-[![Website](https://img.shields.io/website?url=https%3A%2F%2Fnext.upcwangying.com)](https://next.upcwangying.com)
+[![Travis (.org)](https://img.shields.io/travis/upcwangying/myblog-next)](https://travis-ci.org/github/upcwangying/myblog-next)
+[![Website](https://img.shields.io/website?url=https%3A%2F%2Fupcwangying.com)](https://upcwangying.com)
 ![GitHub repo size](https://img.shields.io/github/repo-size/upcwangying/myblog-next)
 ![GitHub last commit](https://img.shields.io/github/last-commit/upcwangying/myblog-next)
 [![GitHub](https://img.shields.io/github/license/upcwangying/myblog-next)](https://github.com/upcwangying/myblog-next/blob/master/LICENSE.md)
