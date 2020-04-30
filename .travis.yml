@@ -18,7 +18,7 @@ install:
 
 script:
   - hexo clean && hexo g && gulp
-  - cd ./public && touch CNAME && echo 'next.upcwangying.com' > CNAME && cd ..
+  - cd ./public && touch CNAME && echo 'upcwangying.com' > CNAME && cd ..
 
 deploy:
   provider: pages
